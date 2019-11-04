@@ -5,30 +5,30 @@
 ### 友情提醒：极客时间搞拼团，限时优惠等，一样可以找我返现。
 ### 我的微信号搜索:  【zgpeace】   或者扫描下面二维码
 
-<img src="./images/Wechat.png" width="200" />
+<img src="./images/Wechat.PNG" width="200" />
 
 ### 课程二维码如下：
-<img src="./images/DesignMode.png" width="200" /><img src="./images/AlgorithmBeauty.png" width="200" /><img src="./images/Algorithm.png" width="200" /><img src="./images/Java.png" width="200" /><img src="./images/AI.png" width="200" /><img src="./images/BigdataDeal.png" width="200" />
-<img src="./images/Blockchain.png" width="200" />
-<img src="./images/Computer.png" width="200" />
-<img src="./images/DataAnalyse.png" width="200" />
-<img src="./images/Git.png" width="200" />
-<img src="./images/Go.png" width="200" />
-<img src="./images/iOSSenior.png" width="200" />
-<img src="./images/JavaCore.png" width="200" />
-<img src="./images/JavaMicroService.png" width="200" />
-<img src="./images/JavaSpring.png" width="200" />
-<img src="./images/JavaThread.png" width="200" />
-<img src="./images/JavaVM.png" width="200" />
-<img src="./images/Kubernetes.png" width="200" />
-<img src="./images/Linux.png" width="200" />
-<img src="./images/Math.png" width="200" />
-<img src="./images/Mysql.png" width="200" />
-<img src="./images/Nginx.png" width="200" />
-<img src="./images/Product.png" width="200" />
-<img src="./images/PythonCore.png" width="200" />
-<img src="./images/Structure.png" width="200" />
-<img src="./images/StructureFromBegining.png" width="200" />
-<img src="./images/TechicalCase.png" width="200" />
-<img src="./images/TechnicalManager.png" width="200" />
-<img src="./images/WebProtocol.png" width="200" />
+<img src="./images/DesignMode.PNG" width="200" /><img src="./images/AlgorithmBeauty.PNG" width="200" /><img src="./images/Algorithm.PNG" width="200" /><img src="./images/Java.PNG" width="200" /><img src="./images/AI.PNG" width="200" /><img src="./images/BigdataDeal.PNG" width="200" />
+<img src="./images/Blockchain.PNG" width="200" />
+<img src="./images/Computer.PNG" width="200" />
+<img src="./images/DataAnalyse.PNG" width="200" />
+<img src="./images/Git.PNG" width="200" />
+<img src="./images/Go.PNG" width="200" />
+<img src="./images/iOSSenior.PNG" width="200" />
+<img src="./images/JavaCore.PNG" width="200" />
+<img src="./images/JavaMicroService.PNG" width="200" />
+<img src="./images/JavaSpring.PNG" width="200" />
+<img src="./images/JavaThread.PNG" width="200" />
+<img src="./images/JavaVM.PNG" width="200" />
+<img src="./images/Kubernetes.PNG" width="200" />
+<img src="./images/Linux.PNG" width="200" />
+<img src="./images/Math.PNG" width="200" />
+<img src="./images/Mysql.PNG" width="200" />
+<img src="./images/Nginx.PNG" width="200" />
+<img src="./images/Product.PNG" width="200" />
+<img src="./images/PythonCore.PNG" width="200" />
+<img src="./images/Structure.PNG" width="200" />
+<img src="./images/StructureFromBegining.PNG" width="200" />
+<img src="./images/TechicalCase.PNG" width="200" />
+<img src="./images/TechnicalManager.PNG" width="200" />
+<img src="./images/WebProtocol.PNG" width="200" />
