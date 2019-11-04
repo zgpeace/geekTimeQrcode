@@ -8,7 +8,7 @@
 <img src="./images/Wechat.PNG" width="200" />
 
 ### 课程二维码如下：
-<img src="./images/DesignMode.PNG" width="200" /><img src="./images/AlgorithmBeauty.PNG" width="200" /><img src="./images/Algorithm.PNG" width="200" /><img src="./images/Java.PNG" width="200" /><img src="./images/AI.PNG" width="200" /><img src="./images/BigdataDeal.PNG" width="200" />
+<img src="./images/DesignMode1.PNG" width="200" /><img src="./images/AlgorithmBeauty.PNG" width="200" /><img src="./images/Algorithm.PNG" width="200" /><img src="./images/Java.PNG" width="200" /><img src="./images/AI.PNG" width="200" /><img src="./images/BigdataDeal.PNG" width="200" />
 <img src="./images/Blockchain.PNG" width="200" />
 <img src="./images/Computer.PNG" width="200" />
 <img src="./images/DataAnalyse.PNG" width="200" />
